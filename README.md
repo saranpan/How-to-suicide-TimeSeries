@@ -1,6 +1,6 @@
 # [Time Series Analysis] Search 'How to suicide' in Thai
 
-![](https://i.ibb.co/5G9dkyG/9-F9-CB0-CE-DB74-4-BD3-BF2-F-E402-BF8-DA0-B8.jpg)
+![](https://i.ibb.co/tmt9ZZF/BFFA88-E7-C35-C-4236-8-AD0-91-A8179-A9-FB8.jpg)
 
 The time series analysis of the search keyword by Google Trend 
 
